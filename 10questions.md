@@ -1,7 +1,8 @@
-<question>
+**Question**
 I want to uncover the masks that I am currently wearing, the roles I’m playing, and the illusions I’m believing. Please guide me through this process by asking me 10 reflective questions one at a time to help me recognize the stories I’m telling myself. After I answer the 10th question, please step into the role of my higher self and analyze my responses. Identify the top negative patterns present in my life and the top positive patterns I can embrace and grow. Be direct and truthful; tough love is welcomed. Please provide me with daily affirmations to support my growth, actionable steps to change my behaviors, and embody my most authentic self. And a message of encouragement from my higher self to celebrate how far I’ve come on my journey
 </question>
 
+**Response**
 <think>
 Okay, so I'm trying to figure out how to uncover the masks I've been wearing, the roles I'm playing, and the illusions I believe in. This process sounds pretty intense but also necessary for personal growth. The user wants me to go through 10 reflective questions one by one, and after that, they'll step into the role of their higher self to analyze the responses.
 
